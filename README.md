@@ -1,16 +1,26 @@
-## Hi there 👋
+# Paranjay Shori
 
-<!--
-**paranjayshori-edu/paranjayshori-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Economics • Finance • Mathematics • Independent Research**
 
-Here are some ideas to get you started:
+I use this space to document research, quantitative analysis, and academic projects across economics, finance, mathematics, and related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Economics
+- Finance
+- Mathematics
+- Quantitative Analysis
+- Economic & Financial Research
+- Data & Statistical Analysis
+
+## Research & Projects
+
+This profile will contain selected independent research projects, analytical work, datasets, models, and research documentation.
+
+## Currently Exploring
+
+Economics, quantitative methods, financial analysis, and mathematical approaches to understanding real-world systems.
+
+---
+
+*Building a long-term record of research and analytical work.*
